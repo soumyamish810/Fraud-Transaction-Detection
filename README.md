@@ -1,4 +1,4 @@
-** 💳 Fraud Transaction Detection using Machine Learning
+Fraud Transaction Detection using Machine Learning
 
 This repository contains a comprehensive machine learning project aimed at detecting fraudulent financial transactions. With the increasing digitization of payments, detecting fraud accurately is critical to protect consumers and businesses.
 
